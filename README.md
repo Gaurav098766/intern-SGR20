@@ -46,6 +46,10 @@ The given token is of SGR20 BSC. The findings has been done from the @https://su
 
 **Server:** NodeJS, Typescript 
 
+## Future Scope
+
+**Getting to have the data hourly and not just daily.**
+
 
 ## Acknowledgements
 
